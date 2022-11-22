@@ -19,3 +19,11 @@ R: Scale tool, to select and change size
 T: Rect Transform tool, to scale in 2D
 ###
 Y: Transform tool, to move, scale, and rotate with one Gizmo
+
+#
+Create an empty GameObject as a container for other GameObjects.
+Duplicate GameObjects.
+Use the Transform component to manipulate child GameObjects.
+Nest GameObjects to multiple levels.
+Use the Move and Rotate tools to transform a child GameObject.
+Adjust the directional light.
